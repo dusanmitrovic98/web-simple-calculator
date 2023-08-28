@@ -32,3 +32,4 @@ function appendDigit(digit) {
 
 function handleOperator(op) {
   if (operator !== "") {
+    calculate();

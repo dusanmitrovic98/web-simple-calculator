@@ -48,3 +48,4 @@ function appendDigit(digit) {
 
 function calculate() {
   if (prevInput === "" || currentInput === "") return;
+  const prev = parseFloat(prevInput);

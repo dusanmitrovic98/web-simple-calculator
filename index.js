@@ -53,3 +53,4 @@ function calculate() {
   let result;
 
   switch (operator) {
+    case "+":

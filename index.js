@@ -20,3 +20,4 @@ buttons.forEach((button) => {
     } else if (button.classList.contains("operator")) {
       handleOperator(buttonText);
     } else {
+      appendDigit(buttonText);

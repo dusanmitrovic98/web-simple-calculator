@@ -21,3 +21,4 @@ buttons.forEach((button) => {
       handleOperator(buttonText);
     } else {
       appendDigit(buttonText);
+    }

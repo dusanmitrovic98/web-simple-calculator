@@ -40,3 +40,4 @@ function handleOperator(op) {
 }
 
 function appendDigit(digit) {
+  if (currentInput.length < MAX_DIGITS) {

@@ -30,3 +30,4 @@ function appendDigit(digit) {
   updateDisplay();
 }
 
+function handleOperator(op) {

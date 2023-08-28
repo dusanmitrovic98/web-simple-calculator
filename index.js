@@ -19,3 +19,4 @@ buttons.forEach((button) => {
       calculate();
     } else if (button.classList.contains("operator")) {
       handleOperator(buttonText);
+    } else {

@@ -38,3 +38,4 @@ function handleOperator(op) {
   prevInput = currentInput;
   currentInput = "";
 }
+

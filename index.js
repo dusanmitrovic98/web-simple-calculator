@@ -45,3 +45,4 @@ function appendDigit(digit) {
     updateDisplay();
   }
 }
+

@@ -46,3 +46,4 @@ function appendDigit(digit) {
   }
 }
 
+function calculate() {

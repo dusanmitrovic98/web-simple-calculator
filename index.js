@@ -7,3 +7,4 @@ let currentInput = "";
 let operator = "";
 let prevInput = "";
 
+buttons.forEach((button) => {

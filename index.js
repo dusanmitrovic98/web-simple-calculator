@@ -55,3 +55,4 @@ function calculate() {
   switch (operator) {
     case "+":
       result = prev + current;
+      break;

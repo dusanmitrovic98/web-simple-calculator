@@ -35,3 +35,4 @@ function handleOperator(op) {
     calculate();
   }
   operator = op;
+  prevInput = currentInput;

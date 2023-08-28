@@ -39,3 +39,4 @@ function handleOperator(op) {
   currentInput = "";
 }
 
+function appendDigit(digit) {

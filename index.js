@@ -51,3 +51,4 @@ function calculate() {
   const prev = parseFloat(prevInput);
   const current = parseFloat(currentInput);
   let result;
+

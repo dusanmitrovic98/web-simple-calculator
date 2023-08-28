@@ -37,3 +37,4 @@ function handleOperator(op) {
   operator = op;
   prevInput = currentInput;
   currentInput = "";
+}

@@ -8,3 +8,4 @@ let operator = "";
 let prevInput = "";
 
 buttons.forEach((button) => {
+  button.addEventListener("click", () => {

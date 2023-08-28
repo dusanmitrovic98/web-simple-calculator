@@ -47,3 +47,4 @@ function appendDigit(digit) {
 }
 
 function calculate() {
+  if (prevInput === "" || currentInput === "") return;

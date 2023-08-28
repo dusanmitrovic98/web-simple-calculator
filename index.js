@@ -22,3 +22,4 @@ buttons.forEach((button) => {
     } else {
       appendDigit(buttonText);
     }
+  });

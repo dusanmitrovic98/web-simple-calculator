@@ -84,3 +84,4 @@ function calculate() {
 function clear() {
   currentInput = "";
   updateDisplay();
+}

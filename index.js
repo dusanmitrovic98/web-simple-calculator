@@ -27,3 +27,4 @@ buttons.forEach((button) => {
 
 function appendDigit(digit) {
   currentInput += digit;
+  updateDisplay();

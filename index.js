@@ -60,3 +60,4 @@ function calculate() {
       result = prev - current;
       break;
     case "*":
+      result = prev * current;

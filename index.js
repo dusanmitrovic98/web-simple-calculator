@@ -87,3 +87,4 @@ function clear() {
 }
 
 function clearAll() {
+  currentInput = "";

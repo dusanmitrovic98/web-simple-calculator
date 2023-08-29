@@ -11,3 +11,4 @@ buttons.forEach((button) => {
   button.addEventListener("click", () => {
     const buttonText = button.innerText;
 
+    if (buttonText === "AC") {

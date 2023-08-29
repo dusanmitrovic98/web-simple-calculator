@@ -75,3 +75,4 @@ function calculate() {
   } else {
     currentInput = "Overflow";
   }
+

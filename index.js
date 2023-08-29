@@ -73,3 +73,4 @@ function calculate() {
   if (result.toString().length <= MAX_DIGITS) {
     currentInput = result.toString();
   } else {
+    currentInput = "Overflow";

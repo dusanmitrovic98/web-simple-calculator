@@ -74,3 +74,4 @@ function calculate() {
     currentInput = result.toString();
   } else {
     currentInput = "Overflow";
+  }

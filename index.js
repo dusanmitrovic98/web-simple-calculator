@@ -93,3 +93,4 @@ function clearAll() {
   updateDisplay();
 }
 
+function updateDisplay() {

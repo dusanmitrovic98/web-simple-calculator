@@ -81,3 +81,4 @@ function calculate() {
   updateDisplay();
 }
 
+function clear() {

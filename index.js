@@ -70,3 +70,4 @@ function calculate() {
       break;
   }
 
+  if (result.toString().length <= MAX_DIGITS) {

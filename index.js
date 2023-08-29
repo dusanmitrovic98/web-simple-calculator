@@ -43,3 +43,4 @@ function appendDigit(digit) {
   if (currentInput.length < MAX_DIGITS) {
     currentInput += digit;
     updateDisplay();
+  }

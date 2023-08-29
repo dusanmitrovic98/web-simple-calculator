@@ -15,3 +15,4 @@ buttons.forEach((button) => {
       clearAll();
     } else if (buttonText === "C") {
       clear();
+    } else if (buttonText === "=") {

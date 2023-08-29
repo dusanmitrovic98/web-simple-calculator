@@ -76,3 +76,4 @@ function calculate() {
     currentInput = "Overflow";
   }
 
+  operator = "";

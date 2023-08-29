@@ -59,3 +59,4 @@ function calculate() {
     case "-":
       result = prev - current;
       break;
+    case "*":

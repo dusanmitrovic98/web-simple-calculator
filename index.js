@@ -86,3 +86,4 @@ function clear() {
   updateDisplay();
 }
 
+function clearAll() {

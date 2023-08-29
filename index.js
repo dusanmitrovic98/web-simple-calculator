@@ -64,3 +64,4 @@ function calculate() {
       break;
     case "/":
       result = prev / current;
+      break;

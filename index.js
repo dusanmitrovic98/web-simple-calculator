@@ -77,3 +77,4 @@ function calculate() {
   }
 
   operator = "";
+  prevInput = "";

@@ -96,3 +96,4 @@ function clearAll() {
 function updateDisplay() {
   display.innerText = currentInput === "" ? "0" : currentInput;
 }
+

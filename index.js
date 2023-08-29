@@ -52,3 +52,4 @@ function calculate() {
   const current = parseFloat(currentInput);
   let result;
 
+  switch (operator) {

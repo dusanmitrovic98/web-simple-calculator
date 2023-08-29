@@ -3,3 +3,4 @@ const buttons = document.querySelectorAll("button");
 
 const MAX_DIGITS = 20;
 
+let currentInput = "";

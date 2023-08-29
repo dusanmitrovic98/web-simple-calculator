@@ -15,7 +15,7 @@ buttons.forEach((button) => {
       clearAll();
     } else if (buttonText === "C") {
       clear();
-    } else if (buttonText === "=") {
+    } else if (buttonText === "=") { 
       calculate();
     } else if (button.classList.contains("operator")) {
       handleOperator(buttonText);

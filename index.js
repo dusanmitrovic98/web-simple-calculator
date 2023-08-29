@@ -91,3 +91,4 @@ function clearAll() {
   operator = "";
   prevInput = "";
   updateDisplay();
+}

@@ -34,3 +34,4 @@ function handleOperator(op) {
   if (operator !== "") {
     calculate();
   }
+  operator = op;

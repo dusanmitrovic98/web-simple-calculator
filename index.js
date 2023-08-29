@@ -69,3 +69,4 @@ function calculate() {
       result = prev % current;
       break;
   }
+

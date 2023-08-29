@@ -17,3 +17,4 @@ buttons.forEach((button) => {
       clear();
     } else if (buttonText === "=") {
       calculate();
+    } else if (button.classList.contains("operator")) {

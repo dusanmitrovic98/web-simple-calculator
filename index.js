@@ -88,3 +88,4 @@ function clear() {
 
 function clearAll() {
   currentInput = "";
+  operator = "";

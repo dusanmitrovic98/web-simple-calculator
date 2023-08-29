@@ -18,3 +18,4 @@ buttons.forEach((button) => {
     } else if (buttonText === "=") {
       calculate();
     } else if (button.classList.contains("operator")) {
+      handleOperator(buttonText);

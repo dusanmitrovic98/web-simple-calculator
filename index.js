@@ -44,3 +44,4 @@ function appendDigit(digit) {
     currentInput += digit;
     updateDisplay();
   }
+}

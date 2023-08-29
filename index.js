@@ -16,3 +16,4 @@ buttons.forEach((button) => {
     } else if (buttonText === "C") {
       clear();
     } else if (buttonText === "=") {
+      calculate();

@@ -23,3 +23,4 @@ buttons.forEach((button) => {
       appendDigit(buttonText);
     }
   });
+});

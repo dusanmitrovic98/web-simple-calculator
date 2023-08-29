@@ -79,3 +79,4 @@ function calculate() {
   operator = "";
   prevInput = "";
   updateDisplay();
+}

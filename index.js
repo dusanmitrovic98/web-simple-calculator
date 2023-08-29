@@ -6,3 +6,4 @@ const MAX_DIGITS = 20;
 let currentInput = "";
 let operator = "";
 let prevInput = "";
+

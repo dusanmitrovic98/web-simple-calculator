@@ -12,3 +12,4 @@ buttons.forEach((button) => {
     const buttonText = button.innerText;
 
     if (buttonText === "AC") {
+      clearAll();

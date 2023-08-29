@@ -82,3 +82,4 @@ function calculate() {
 }
 
 function clear() {
+  currentInput = "";
